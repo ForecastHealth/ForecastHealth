@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ForecastHealth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This is the official GitHub page for Forecast Health Australia.
 
-<!---
-ForecastHealth/ForecastHealth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Forecast Health has a few aims:
+- Building models
+- Sharing our code
+- Documenting our models and code with simple language
+- Doing these things for other people's models
+- Having a transparent philosophy
+
+On this GitHub page, we fulfill the second of these aims, by sharing our code.
+
+You can find out more at our website: https://forecasthealth.org
+For enquiries, please email about@forecasthealth.org
